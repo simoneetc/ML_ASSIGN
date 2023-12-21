@@ -32,17 +32,19 @@
 
   # Customer Churn Dataset
 
+# Customer Churn Dataset
+
 ## Dataset Description
-[The Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) is available in .csv format and comprises 12 attributes: CustomerID, Age, Gender, Tenure, Usage, Frequency, Support, Calls, Payment, Delay, Subscription Type, Contract Length, Total Spend, Last Interaction, and Churn.
+- [The Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) is available in .csv format and comprises 12 attributes: CustomerID, Age, Gender, Tenure, Usage, Frequency, Support, Calls, Payment, Delay, Subscription Type, Contract Length, Total Spend, Last Interaction, and Churn.
 
 
 
 ## Methodology
-The dataset captures the rate at which customers discontinue a company's products or services within a specified timeframe. Churn is a pivotal metric impacting revenue, growth, and customer retention.
+- The dataset captures the rate at which customers discontinue a company's products or services within a specified timeframe. Churn is a pivotal metric impacting revenue, growth, and customer retention.
 
-In this dataset, the churn label distinguishes between customers who have discontinued (churned) and those who remain engaged (non-churned). Analyzing churn behavior allows companies to develop strategies for customer retention, enhance satisfaction, and reduce turnover. Predictive modeling techniques can forecast and proactively address potential churn, enabling proactive measures to retain at-risk customers.
+- In this dataset, the churn label distinguishes between customers who have discontinued (churned) and those who remain engaged (non-churned). Analyzing churn behavior allows companies to develop strategies for customer retention, enhance satisfaction, and reduce turnover. Predictive modeling techniques can forecast and proactively address potential churn, enabling proactive measures to retain at-risk customers.
 
-The notebook's goal is to gain insights through customer segmentation using the k-means clustering algorithm and build a classification model to predict churn probability.
+- The notebook's goal is to gain insights through customer segmentation using the k-means clustering algorithm and build a classification model to predict churn probability.
 
 ## Conclusion
 Based on the analysis, the following conclusions are drawn:
@@ -55,4 +57,3 @@ Based on the analysis, the following conclusions are drawn:
 7. Customers with up-to-date interactions tend to churn less.
 
 **Note:** These insights can guide businesses in implementing targeted strategies to mitigate churn and improve overall customer satisfaction.
-
