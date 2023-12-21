@@ -3,7 +3,7 @@
 # Housing Dataset Analysis
 
 ## Dataset Description
-- [California Housing dataset](./mltt_a/) with 10 attributes: longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity.
+- [California Housing dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html) with 10 attributes: longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity.
 - 20,641 readings with varied records for each class of ocean_proximity.
 
 ## Methodology
