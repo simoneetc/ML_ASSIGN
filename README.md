@@ -3,7 +3,7 @@
 # Housing Dataset Analysis
 
 ## Dataset Description
-- [California Housing dataset](https://link-to-your-dataset) with 10 attributes: longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity.
+- [California Housing dataset](./mltt_a/) with 10 attributes: longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity.
 - 20,641 readings with varied records for each class of ocean_proximity.
 
 ## Methodology
@@ -33,7 +33,7 @@
   # Customer Churn Dataset
 
 ## Dataset Description
-[The Customer Churn dataset]((https://www.kaggle.com/datasets/blastchar/telco-customer-churn) is available in .csv format and comprises 12 attributes: CustomerID, Age, Gender, Tenure, Usage, Frequency, Support, Calls, Payment, Delay, Subscription Type, Contract Length, Total Spend, Last Interaction, and Churn.
+[The Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) is available in .csv format and comprises 12 attributes: CustomerID, Age, Gender, Tenure, Usage, Frequency, Support, Calls, Payment, Delay, Subscription Type, Contract Length, Total Spend, Last Interaction, and Churn.
 
 
 
